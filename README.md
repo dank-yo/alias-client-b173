@@ -1,12 +1,12 @@
 # Alias Reloaded (Minecraft b1.7.3) Full SRC Code
 This has the full client + minecraft src code included since there are callouts under the main game function.
 
-I have not worked on this in 5 years.
+I have not worked on this in 5-6 years.
 
 The Java version required is very old and I do not have time to mess with this.
 Uploading here for my portfolio. This is available for anyone to use.
 
-Client theme is based off of Team Avolitions Reliant client. 
+Client theme is based off of Team Avolitions Reliant client. At some point I will try to re-compile these into functional jar versions to run in the official launcher. 
 
 ## Mods List: 
 
